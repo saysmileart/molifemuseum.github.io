@@ -2,10 +2,17 @@
 title: MoLife-移动生活博物馆
 SEOTitle: 移动生活博物馆 | MoLife Blog
 header-img: img/post-bg-desk.jpg
+<<<<<<< HEAD
 email: saysmileart@hotmail.com
 description: "Best Or Nothing."
 keyword: "移动应用,移动互联网,科技博客,数据报告,手机,App, Apple, iPhone"
 url: "saysmileart.github.io"          # your host, for absolute URL
+=======
+email: qiubaiying@gmail.com
+description: "Every failure is leading towards success."
+keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+url: "http://saysmileart.github.io"          # your host, for absolute URL
+>>>>>>> 9c213a4892627c91ab64bdd7b19e2b8707b6ecb2
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 
