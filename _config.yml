@@ -1,29 +1,29 @@
 # Site settings
-title: MoLife-移动生活博物馆
-SEOTitle: 移动生活博物馆 | MoLife Blog
+title: BY Blog
+SEOTitle: 柏荧的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-<<<<<<< HEAD
-email: saysmileart@hotmail.com
-description: "Best Or Nothing."
-keyword: " 移动应用, 移动互联网, 科技博客, 数据报告, 手机, App, Apple, iPhone"
-url: "saysmileart.github.io"          # your host, for absolute URL
+email: qiubaiying@gmail.com
+description: "Every failure is leading towards success."
+keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+url: "http://qiubaiying.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-
+github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: http://yuntu88.oss-cn-beijing.aliyuncs.com/fromlocal/Arem%20Logo%20back.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     Arestaw
-zhihu_username:     6ce05b4c1198c875590ba9c7da588367
-github_username:    saysmileart
-jianshu_username:   9d20af199529
-#twitter_username:   saysmileart
+# weibo_username:     qiubaiying
+zhihu_username:     qiubaiying
+github_username:    qiubaiying
+facebook_username:  baiying.qiu.7
+jianshu_username:   e71990ada2fd
+#twitter_username:   qiubaiying
 
 
 
@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: AG07
+# disqus_username: qiubaiying
 
 # Gitalk
 gitalk:
@@ -74,11 +74,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 293a1bc548ab3e50daf31d5a08529d46
+ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-132408409-1'            # Format: UA-xxxxxx-xx
-ga_domain: www.molifemuseum.com               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "移次幂",
-        href: "http://www.arestaw.com"
+        title: "WY",
+        href: "http://zhengwuyang.com"
     },{
-        title: "AG07",
-        href: "https://www.jianshu.com/u/9d20af199529"
+        title: "简书·BY",
+        href: "http://www.jianshu.com/u/e71990ada2fd"
     },{
-        title: "时代撕裂者",
-        href: "https://www.zhihu.com/people/arestaw/"
+        title: "Apple",
+        href: "https://apple.com"
     },{
-        title: "ARESTAW",
-        href: "https://weibo.com/daydreamhearting/"
+        title: "Apple Developer",
+        href: "https://developer.apple.com/"
     }
 ]
